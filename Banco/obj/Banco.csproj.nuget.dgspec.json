@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edu82\\source\\repos\\Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\edu82\\Source\\Repos\\Banco5\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edu82\\source\\repos\\Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\edu82\\Source\\Repos\\Banco5\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edu82\\source\\repos\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\edu82\\Source\\Repos\\Banco5\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\edu82\\source\\repos\\Banco\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\edu82\\Source\\Repos\\Banco5\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\edu82\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edu82\\source\\repos\\Banco\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\edu82\\Source\\Repos\\Banco5\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
